@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **munenecyp@gmail.com**
 
-- 📄 Know about my experiences [https://cyprian.dev/resume](https://cyprian.dev/resume)
+- 📄 Know about my experiences [https://cyprian.dev/resume](https://cyprian.dev/resume/cyprian-munene-resume.pdf)
 
 - ⚡ Fun fact **I love anime, cats, metal and sci-fi**
 
