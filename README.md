@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working at [Canonical](https://canonical.com)
+- 🔭 I’m currently working at [ICAS (K) Kenya]([https://canonical.com](https://icas.co.ke/))
 
 - 🌱 I’m currently learning **Machine Learning**
 
