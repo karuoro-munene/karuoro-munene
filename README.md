@@ -5,8 +5,6 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 👨‍💻 My personal site is [https://cyprian.dev](https://cyprian.dev)
 
 - 💬 Ask me about **python, django, flask**
@@ -14,6 +12,8 @@
 - 📫 How to reach me **munenecyp@gmail.com**
 
 - 📄 Know about my experiences [https://cyprian.dev/resume](https://cyprian.dev/resume/cyprian-munene-resume.pdf)
+
+- - 🌱 I’m currently learning **Machine Learning**
 
 - ⚡ Fun fact **I love anime, cats, metal and sci-fi**
 <hr>
