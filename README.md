@@ -5,8 +5,6 @@
 
 
 
-- 🔭 I’m currently working at [ICAS (K) Kenya]([https://canonical.com](https://icas.co.ke/))
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 My personal site is [https://cyprian.dev](https://cyprian.dev)
