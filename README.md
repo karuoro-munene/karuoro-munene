@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karuoro-munene&label=Profile%20views&color=0e75b6&style=flat" alt="karuoro-munene" /> </p>
 
-- 💼 I currently work at [ICAS World](https://icasworld.com) 
+- 💼 I currently work at [ICAS World (Kenya)](https://icasworld.com) 
 
 - 👨‍💻 My personal site is [https://cyprian.dev](https://cyprian.dev)
 
